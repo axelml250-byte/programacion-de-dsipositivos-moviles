@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">act1_uni5</string>
+    <string name="valor_inicial">0</string>
+    <string name="etiqueta_posicion">Posición n = 0</string>
+    <string name="btn_avance">Avance (+)</string>
+    <string name="btn_retroceso">Retroceso (-)</string>
+</resources>
